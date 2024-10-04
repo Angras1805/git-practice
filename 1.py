@@ -1,1 +1,1 @@
-akywdfJVXYAHDJHBH
+print("hello world")
